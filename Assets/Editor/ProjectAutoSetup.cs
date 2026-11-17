@@ -66,5 +66,11 @@ public static class ProjectAutoSetup
 
         Debug.Log("[AutoSetup] Hoàn tất Auto Setup Step 3 & 4 thành công!");
     }
+
+    [MenuItem("Tools/Setup Team Setup UI (US-012)")]
+    public static void SetupUS012()
+    {
+        Antigravity.Editor.TeamSetupAutoSetup.CreateTeamSetupUI();
+    }
 }
 
