@@ -27,6 +27,27 @@ public class GridManager : MonoBehaviour
         InitializeGrids();
     }
 
+    private void OnEnable()
+    {
+        DamagePipeline.OnUnitDeath += HandleUnitDeath;
+    }
+
+    private void OnDisable()
+    {
+        DamagePipeline.OnUnitDeath -= HandleUnitDeath;
+    }
+
+    private void HandleUnitDeath(BattleUnit unit)
+    {
+        if (unit == null) return;
+        BattleUnit[,] grid = GetGrid(unit.IsPlayerSide);
+        if (IsValidCoordinate(unit.Row, unit.Column) && grid[unit.Row, unit.Column] == unit)
+        {
+            grid[unit.Row, unit.Column] = null;
+            Debug.Log($"[GridManager] Giải phóng ô ({unit.Row}, {unit.Column}) phe {(unit.IsPlayerSide ? "Player" : "Enemy")} do '{unit.UnitName}' tử trận.");
+        }
+    }
+
     public void InitializeGrids()
     {
         PlayerGrid = new BattleUnit[ROWS, COLS];
@@ -214,6 +235,50 @@ public class GridManager : MonoBehaviour
         }
 
         return targets;
+    }
+
+    /// <summary>
+    /// Gây sát thương nổ lan (Blast) sang các ô liền kề trái/phải trên cùng hàng ngang row.
+    /// </summary>
+    public void ApplyBlastDamage(int row, int centerCol, int damage)
+    {
+        // Tự động nhận diện phe bị đánh
+        bool targetPlayerSide = false;
+        if (PlayerGrid != null && ((IsValidCoordinate(row, centerCol) && PlayerGrid[row, centerCol] != null) ||
+            (centerCol > 0 && PlayerGrid[row, centerCol - 1] != null) ||
+            (centerCol < COLS - 1 && PlayerGrid[row, centerCol + 1] != null)))
+        {
+            targetPlayerSide = true;
+        }
+
+        List<BattleUnit> blastTargets = GetBlastTargets(targetPlayerSide, row, centerCol);
+        foreach (var target in blastTargets)
+        {
+            // Chỉ đánh vào các mục tiêu xung quanh (ô tâm đã nhận sát thương chính trước đó)
+            if (target != null && !target.IsDead && !(target.Row == row && target.Column == centerCol))
+            {
+                DamagePipeline.ApplyDamage(target, damage);
+                Debug.Log($"[GridManager] Blast lan sang '{target.UnitName}' tại ({target.Row}, {target.Column}): {damage} sát thương.");
+            }
+        }
+    }
+
+    /// <summary>
+    /// Gây sát thương xuyên thấu (Pierce) dọc theo cột col (100% mục tiêu trước, 50% mục tiêu sau).
+    /// </summary>
+    public void ApplyPierceDamage(int col, int rawDamage, bool targetPlayerSide = false)
+    {
+        List<BattleUnit> pierceTargets = GetPierceTargets(targetPlayerSide, col);
+        foreach (var target in pierceTargets)
+        {
+            if (target != null && !target.IsDead)
+            {
+                float ratio = GetPierceDamageRatio(target);
+                int actualRaw = Mathf.RoundToInt(rawDamage * ratio);
+                DamagePipeline.ApplyDamage(target, actualRaw);
+                Debug.Log($"[GridManager] Pierce đâm trúng '{target.UnitName}' tại ({target.Row}, {target.Column}) với {ratio * 100}% sát thương: {actualRaw}.");
+            }
+        }
     }
 
     /// <summary>
