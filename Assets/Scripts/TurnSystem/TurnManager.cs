@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class TurnManager : MonoBehaviour
@@ -52,6 +53,58 @@ public class TurnManager : MonoBehaviour
         CurrentState?.ExitState(this);
         CurrentState = newState;
         CurrentState.EnterState(this);
+    }
+
+    /// <summary>
+    /// US-021: Logic Đầu Lượt - Tự động cập nhật lại Total Turn Cost dựa vào số tướng đang sống sót.
+    /// </summary>
+    public void RecalculateTurnCost(IEnumerable<BattleUnit> livingUnits)
+    {
+        int sumAP = 0;
+        if (livingUnits != null)
+        {
+            foreach (var u in livingUnits)
+            {
+                if (u != null && !u.IsDead)
+                {
+                    sumAP += u.APContribution;
+                }
+            }
+        }
+        TotalTurnCost = sumAP;
+        Debug.Log($"[TurnManager] Cập nhật Total Turn Cost đầu lượt: {TotalTurnCost} AP.");
+    }
+
+    /// <summary>
+    /// US-022: Logic Đầu Lượt - Viết hàm tự động giảm thời gian Cooldown của các thẻ bài kỹ năng.
+    /// </summary>
+    public void ReduceSkillCooldowns(IEnumerable<CardData> handCards)
+    {
+        if (handCards != null)
+        {
+            foreach (var card in handCards)
+            {
+                if (card != null && card.CurrentCooldown > 0)
+                {
+                    card.CurrentCooldown--;
+                    Debug.Log($"[TurnManager] Giảm Cooldown thẻ '{card.CardName}', còn: {card.CurrentCooldown}.");
+                }
+            }
+        }
+    }
+
+    /// <summary>
+    /// US-027: Tự động reset lớp Shield (Giáp ảo) về 0 khi kích hoạt pha End Turn.
+    /// </summary>
+    public void ResetShieldsOnEndTurn(IEnumerable<BattleUnit> allUnits)
+    {
+        if (allUnits != null)
+        {
+            foreach (var u in allUnits)
+            {
+                DamagePipeline.ResetTurnShield(u);
+            }
+        }
     }
 
     public void EndPlayerTurn()

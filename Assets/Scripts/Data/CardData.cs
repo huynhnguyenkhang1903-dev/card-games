@@ -12,6 +12,7 @@ public class CardData : ScriptableObject
     [Header("Cost & Cooldown")]
     public int CardCost;
     public int Cooldown;
+    public int CurrentCooldown;
 
     [Header("Combat Values")]
     [Tooltip("Hệ số sát thương theo % ATK (ví dụ: 1.0 = 100% ATK)")]
