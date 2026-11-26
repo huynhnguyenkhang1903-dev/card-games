@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24248f7654e7b143890e1e2d8f6837f, type: 3}
+  m_Name: MagmaGolem_Stats
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterStats
+  CharacterID: MagmaGolem
+  CharacterName: "Ng\u01B0\u1EDDi \u0110\xE1 Nham Th\u1EA1ch (Magma Golem)"
+  Portrait: {fileID: 4300511326107855521, guid: c024f4b0bf0da3c4eafccddce28be36e, type: 3}
+  FullBody: {fileID: -4090513949208068278, guid: af64bfc659ce6924ca43ac4b56caccc9, type: 3}
+  CharacterPrefab: {fileID: 2334557595103976684, guid: b94dfa8391abc5f438f3846d15c810dc, type: 3}
+  BaseHP: 2200
+  BaseATK: 35
+  BaseDEF: 100
+  APContribution: 4
+  Cards: []

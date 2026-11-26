@@ -12,8 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f24248f7654e7b143890e1e2d8f6837f, type: 3}
   m_Name: Paladin_Stats
   m_EditorClassIdentifier: Assembly-CSharp::CharacterStats
-  CharacterID: 
-  CharacterName: "Paladin \xC1nh S\xE1ng"
+  CharacterID: Paladin
+  CharacterName: "Hi\u1EC7p S\u0129 \xC1nh S\xE1ng (Paladin)"
+  Portrait: {fileID: 1851922570254617372, guid: 1f8933d34f5ce6c4a84fbaf7b79193a4, type: 3}
+  FullBody: {fileID: -9018604577629743998, guid: 5f1d6d286ac95c54792354cab61e700f, type: 3}
+  CharacterPrefab: {fileID: 1051837595909025783, guid: 197ed985b62c0e24fbdc316d84b3e369, type: 3}
   BaseHP: 1800
   BaseATK: 20
   BaseDEF: 80

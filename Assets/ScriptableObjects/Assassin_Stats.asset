@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f24248f7654e7b143890e1e2d8f6837f, type: 3}
+  m_Name: Assassin_Stats
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterStats
+  CharacterID: Assassin
+  CharacterName: "S\xE1t Th\u1EE7 B\xF3ng \u0110\xEAm (Shadow Assassin)"
+  Portrait: {fileID: -4122428650286868189, guid: ce42f74404391a044a05e7bd99e751bc, type: 3}
+  FullBody: {fileID: 8441748632170793120, guid: bb2794ad235c79a42ab03e62f6105b16, type: 3}
+  CharacterPrefab: {fileID: 1169775707224955838, guid: 6b0ac7ffd37ef154a9d8701833ded9a4, type: 3}
+  BaseHP: 1000
+  BaseATK: 110
+  BaseDEF: 20
+  APContribution: 3
+  Cards: []

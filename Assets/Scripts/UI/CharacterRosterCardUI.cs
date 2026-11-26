@@ -50,6 +50,12 @@ namespace Antigravity.UI
             characterStats = stats;
             if (stats == null) return;
 
+            if (AvatarImage != null && stats.Portrait != null)
+            {
+                AvatarImage.sprite = stats.Portrait;
+                AvatarImage.gameObject.SetActive(true);
+            }
+
             if (CharacterNameText != null)
             {
                 CharacterNameText.text = stats.CharacterName;

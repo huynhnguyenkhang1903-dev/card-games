@@ -15,6 +15,8 @@ namespace Antigravity.Editor
         private const string PaladinAssetPath = "Assets/ScriptableObjects/Paladin_Stats.asset";
         private const string SniperAssetPath = "Assets/ScriptableObjects/Sniper_Stats.asset";
         private const string MageAssetPath = "Assets/ScriptableObjects/Mage_Stats.asset";
+        private const string MagmaGolemAssetPath = "Assets/ScriptableObjects/MagmaGolem_Stats.asset";
+        private const string AssassinAssetPath = "Assets/ScriptableObjects/Assassin_Stats.asset";
 
         [MenuItem("Tools/Antigravity/Setup Team Setup UI (US-012)")]
         public static void CreateTeamSetupUI()
@@ -209,11 +211,17 @@ namespace Antigravity.Editor
             CharacterStats paladin = AssetDatabase.LoadAssetAtPath<CharacterStats>(PaladinAssetPath);
             if (paladin != null) setupUI.AvailableCharacters.Add(paladin);
 
-            CharacterStats sniper = AssetDatabase.LoadAssetAtPath<CharacterStats>(SniperAssetPath);
-            if (sniper != null) setupUI.AvailableCharacters.Add(sniper);
+            CharacterStats magmaGolem = AssetDatabase.LoadAssetAtPath<CharacterStats>(MagmaGolemAssetPath);
+            if (magmaGolem != null) setupUI.AvailableCharacters.Add(magmaGolem);
 
             CharacterStats mage = AssetDatabase.LoadAssetAtPath<CharacterStats>(MageAssetPath);
             if (mage != null) setupUI.AvailableCharacters.Add(mage);
+
+            CharacterStats assassin = AssetDatabase.LoadAssetAtPath<CharacterStats>(AssassinAssetPath);
+            if (assassin != null) setupUI.AvailableCharacters.Add(assassin);
+
+            CharacterStats sniper = AssetDatabase.LoadAssetAtPath<CharacterStats>(SniperAssetPath);
+            if (sniper != null) setupUI.AvailableCharacters.Add(sniper);
 
             // Tạo Template Card Prefab cho Roster
             GameObject cardPrefab = CreateRosterCardTemplate(mainPanel.transform);
@@ -325,10 +333,21 @@ namespace Antigravity.Editor
             CharacterRosterCardUI cardUI = cardObj.AddComponent<CharacterRosterCardUI>();
             cardUI.CardBackground = bg;
 
+            // Avatar Portrait
+            GameObject avatarObj = CreateUIGameObject("AvatarImage", cardObj.transform);
+            RectTransform avRect = avatarObj.GetComponent<RectTransform>();
+            avRect.anchorMin = new Vector2(0.02f, 0.1f);
+            avRect.anchorMax = new Vector2(0.18f, 0.9f);
+            avRect.offsetMin = Vector2.zero;
+            avRect.offsetMax = Vector2.zero;
+            Image avatarImg = avatarObj.AddComponent<Image>();
+            avatarImg.preserveAspect = true;
+            cardUI.AvatarImage = avatarImg;
+
             Text nameText = CreateText("CharName", cardObj.transform, "Paladin Ánh Sáng", 20, FontStyle.Bold, TextAnchor.UpperLeft);
             RectTransform nRect = nameText.GetComponent<RectTransform>();
-            nRect.anchorMin = new Vector2(0.04f, 0.65f);
-            nRect.anchorMax = new Vector2(0.6f, 0.95f);
+            nRect.anchorMin = new Vector2(0.20f, 0.65f);
+            nRect.anchorMax = new Vector2(0.65f, 0.95f);
             nRect.offsetMin = Vector2.zero;
             nRect.offsetMax = Vector2.zero;
             cardUI.CharacterNameText = nameText;
@@ -336,15 +355,15 @@ namespace Antigravity.Editor
             Text roleText = CreateText("RoleText", cardObj.transform, "Đỡ Đòn (Tiền Tuyến)", 15, FontStyle.Italic, TextAnchor.UpperLeft);
             roleText.color = new Color(0.8f, 0.85f, 0.9f, 1f);
             RectTransform rRect = roleText.GetComponent<RectTransform>();
-            rRect.anchorMin = new Vector2(0.04f, 0.4f);
-            rRect.anchorMax = new Vector2(0.5f, 0.65f);
+            rRect.anchorMin = new Vector2(0.20f, 0.4f);
+            rRect.anchorMax = new Vector2(0.65f, 0.65f);
             rRect.offsetMin = Vector2.zero;
             rRect.offsetMax = Vector2.zero;
             cardUI.RoleText = roleText;
 
             Text statsText = CreateText("StatsText", cardObj.transform, "HP: 1800   ATK: 20   DEF: 80", 15, FontStyle.Normal, TextAnchor.UpperLeft);
             RectTransform sRect = statsText.GetComponent<RectTransform>();
-            sRect.anchorMin = new Vector2(0.04f, 0.1f);
+            sRect.anchorMin = new Vector2(0.20f, 0.1f);
             sRect.anchorMax = new Vector2(0.65f, 0.38f);
             sRect.offsetMin = Vector2.zero;
             sRect.offsetMax = Vector2.zero;
@@ -436,7 +455,7 @@ namespace Antigravity.Editor
 
         private static void EnsureEventSystem()
         {
-            if (Object.FindFirstObjectByType<EventSystem>() == null)
+            if (Object.FindAnyObjectByType<EventSystem>() == null)
             {
                 GameObject es = new GameObject("EventSystem", typeof(EventSystem), typeof(StandaloneInputModule));
                 Undo.RegisterCreatedObjectUndo(es, "Create EventSystem");

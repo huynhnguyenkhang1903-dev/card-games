@@ -217,6 +217,38 @@ public class GridManager : MonoBehaviour
     }
 
     /// <summary>
+    /// Gây sát thương Blast (Nổ lan) vào các ô liền kề ngang.
+    /// </summary>
+    public void ApplyBlastDamage(int row, int centerCol, int damage, bool targetPlayerSide = false)
+    {
+        List<BattleUnit> targets = GetBlastTargets(targetPlayerSide, row, centerCol);
+        foreach (BattleUnit t in targets)
+        {
+            if (t != null && !t.IsDead)
+            {
+                DamagePipeline.ApplyDamage(t, damage);
+            }
+        }
+    }
+
+    /// <summary>
+    /// Gây sát thương Pierce (Xuyên thấu) dọc cột.
+    /// </summary>
+    public void ApplyPierceDamage(int col, int damage, bool targetPlayerSide = false)
+    {
+        List<BattleUnit> targets = GetPierceTargets(targetPlayerSide, col);
+        foreach (BattleUnit t in targets)
+        {
+            if (t != null && !t.IsDead)
+            {
+                float ratio = GetPierceDamageRatio(t);
+                int finalDmg = Mathf.RoundToInt(damage * ratio);
+                DamagePipeline.ApplyDamage(t, finalDmg);
+            }
+        }
+    }
+
+    /// <summary>
     /// Di chuyển chiến thuật: Nếu unit.IsRooted == false và turnManager.TotalTurnCost >= 1 thì trừ 1 Cost,
     /// cho phép di chuyển sang ô trống hoặc hoán đổi vị trí (Swap) với đồng minh đang đứng ở ô (targetRow, targetCol).
     /// </summary>

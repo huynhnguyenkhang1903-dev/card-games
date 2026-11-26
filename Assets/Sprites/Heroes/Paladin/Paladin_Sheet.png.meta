@@ -1,0 +1,1744 @@
+fileFormatVersion: 2
+guid: 9b525b2d9b103d74fb82c17f5a03a8df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -642670359892525455
+    second: Paladin_Sheet_0
+  - first:
+      213: -4441962283340684967
+    second: Paladin_Sheet_1
+  - first:
+      213: 6223386449933265757
+    second: Paladin_Sheet_2
+  - first:
+      213: 7403133884994871511
+    second: Paladin_Sheet_3
+  - first:
+      213: -6811503621837494051
+    second: Paladin_Sheet_4
+  - first:
+      213: 6394027870614334904
+    second: Paladin_Sheet_5
+  - first:
+      213: -6594821954691167856
+    second: Paladin_Sheet_6
+  - first:
+      213: 2685406279834966612
+    second: Paladin_Sheet_7
+  - first:
+      213: -861560261527154070
+    second: Paladin_Sheet_8
+  - first:
+      213: -2045140729614891169
+    second: Paladin_Sheet_9
+  - first:
+      213: 6048573691694019692
+    second: Paladin_Sheet_10
+  - first:
+      213: -3392939501095237978
+    second: Paladin_Sheet_11
+  - first:
+      213: -355349318066907826
+    second: Paladin_Sheet_12
+  - first:
+      213: 1509139500347029971
+    second: Paladin_Sheet_13
+  - first:
+      213: -7747826431533833533
+    second: Paladin_Sheet_14
+  - first:
+      213: 9167633200292818787
+    second: Paladin_Sheet_15
+  - first:
+      213: 6964997228769676052
+    second: Paladin_Sheet_16
+  - first:
+      213: -34230137901532139
+    second: Paladin_Sheet_17
+  - first:
+      213: -1127825262246530442
+    second: Paladin_Sheet_18
+  - first:
+      213: 6373326377931549615
+    second: Paladin_Sheet_19
+  - first:
+      213: -7928447859430108505
+    second: Paladin_Sheet_20
+  - first:
+      213: -3220622918383663361
+    second: Paladin_Sheet_21
+  - first:
+      213: 9212912623617171982
+    second: Paladin_Sheet_22
+  - first:
+      213: -8244905278639781887
+    second: Paladin_Sheet_23
+  - first:
+      213: 879436730210542329
+    second: Paladin_Sheet_24
+  - first:
+      213: 7493631499432970289
+    second: Paladin_Sheet_25
+  - first:
+      213: -5237122383884064031
+    second: Paladin_Sheet_26
+  - first:
+      213: -2710999230699385202
+    second: Paladin_Sheet_27
+  - first:
+      213: -1307337446719060951
+    second: Paladin_Sheet_28
+  - first:
+      213: -2090870306112926126
+    second: Paladin_Sheet_29
+  - first:
+      213: 5487186574326899871
+    second: Paladin_Sheet_30
+  - first:
+      213: -9081811045741940489
+    second: Paladin_Sheet_31
+  - first:
+      213: -4010188259672901402
+    second: Paladin_Sheet_32
+  - first:
+      213: 4337612986617390169
+    second: Paladin_Sheet_33
+  - first:
+      213: 7963748293336987771
+    second: Paladin_Sheet_34
+  - first:
+      213: 6982900557250102932
+    second: Paladin_Sheet_35
+  - first:
+      213: -6704079092525900868
+    second: Paladin_Sheet_36
+  - first:
+      213: 5836053432186044378
+    second: Paladin_Sheet_37
+  - first:
+      213: -6913667103139488479
+    second: Paladin_Sheet_38
+  - first:
+      213: 7376710087953072594
+    second: Paladin_Sheet_39
+  - first:
+      213: -1268837710385297808
+    second: Paladin_Sheet_40
+  - first:
+      213: -9165662803545105525
+    second: Paladin_Sheet_41
+  - first:
+      213: 9018228684397288165
+    second: Paladin_Sheet_42
+  - first:
+      213: 1702480452136901955
+    second: Paladin_Sheet_43
+  - first:
+      213: -7695476186301510098
+    second: Paladin_Sheet_44
+  - first:
+      213: 281424427603937878
+    second: Paladin_Sheet_45
+  - first:
+      213: 2932841698532831625
+    second: Paladin_Sheet_46
+  - first:
+      213: -8605179871934377761
+    second: Paladin_Sheet_47
+  - first:
+      213: -5384220720162997356
+    second: Paladin_Sheet_48
+  - first:
+      213: 2542217607098421765
+    second: Paladin_Sheet_49
+  - first:
+      213: 6897853944614370771
+    second: Paladin_Sheet_50
+  - first:
+      213: -7806568378097627545
+    second: Paladin_Sheet_51
+  - first:
+      213: -4000827767187618159
+    second: Paladin_Sheet_52
+  - first:
+      213: 6138150837444870871
+    second: Paladin_Sheet_53
+  - first:
+      213: -2359684237236489649
+    second: Paladin_Sheet_54
+  - first:
+      213: -5508173586661342235
+    second: Paladin_Sheet_55
+  - first:
+      213: -5770621617343724751
+    second: Paladin_Sheet_56
+  - first:
+      213: 599562470705452702
+    second: Paladin_Sheet_57
+  - first:
+      213: -5991757486703498687
+    second: Paladin_Sheet_58
+  - first:
+      213: 636245587557814815
+    second: Paladin_Sheet_59
+  - first:
+      213: 1046107637587669531
+    second: Paladin_Sheet_60
+  - first:
+      213: -4830513500833907390
+    second: Paladin_Sheet_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Paladin_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 676
+        width: 209
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17efee276b6c417f0800000000000000
+      internalID: -642670359892525455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 676
+        width: 200
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951abcb76dafa52c0800000000000000
+      internalID: -4441962283340684967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 676
+        width: 201
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b6048d009ed5650800000000000000
+      internalID: 6223386449933265757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 676
+        width: 225
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0e6cf7b073db660800000000000000
+      internalID: 7403133884994871511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 675
+        width: 203
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8e61a7b8da871a0800000000000000
+      internalID: -6811503621837494051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 772
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd2ae7a8762cb850800000000000000
+      internalID: 6394027870614334904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 675
+        width: 157
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0998fa18f5c7a74a0800000000000000
+      internalID: -6594821954691167856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 774
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a9a2b98ca744520800000000000000
+      internalID: 2685406279834966612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 750
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62d413c18f1b04f0800000000000000
+      internalID: -861560261527154070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 699
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f570f9f87533e93e0800000000000000
+      internalID: -2045140729614891169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 703
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64f133d9b9d0f350800000000000000
+      internalID: 6048573691694019692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 700
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6c3d4108bd9e0d0800000000000000
+      internalID: -3392939501095237978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 699
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45d17d8dab811bf0800000000000000
+      internalID: -355349318066907826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 673
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9f1ba316a81f410800000000000000
+      internalID: 1509139500347029971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 673
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c22b0709e03a7490800000000000000
+      internalID: -7747826431533833533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 509
+        width: 158
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fe78ec2d9f93f70800000000000000
+      internalID: 9167633200292818787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 609
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b8562d314a8a060800000000000000
+      internalID: 6964997228769676052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 503
+        width: 185
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c34c5fed3668ff0800000000000000
+      internalID: -34230137901532139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 608
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672751346e82950f0800000000000000
+      internalID: -1127825262246530442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 509
+        width: 161
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabac3ac29a927850800000000000000
+      internalID: 6373326377931549615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 607
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a25676bdae78f190800000000000000
+      internalID: -7928447859430108505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 509
+        width: 162
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff68242f48c0e43d0800000000000000
+      internalID: -3220622918383663361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 609
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02e9651837dadf70800000000000000
+      internalID: 9212912623617171982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 508
+        width: 170
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108ceeb1556349d80800000000000000
+      internalID: -8244905278639781887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 607
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f261a2fb03643c00800000000000000
+      internalID: 879436730210542329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 508
+        width: 130
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1384161552abef760800000000000000
+      internalID: 7493631499432970289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 586
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eae75770f00257b0800000000000000
+      internalID: -5237122383884064031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 595
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e4ecb2098906ad0800000000000000
+      internalID: -2710999230699385202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 584
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9248ebec4876bdde0800000000000000
+      internalID: -1307337446719060951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 531
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e0ab4d88cbbf2e0800000000000000
+      internalID: -2090870306112926126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 442
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f942c03fd17662c40800000000000000
+      internalID: 5487186574326899871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 343
+        width: 111
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0355da8fce6f180800000000000000
+      internalID: -9081811045741940489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 342
+        width: 112
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e831c35603f858c0800000000000000
+      internalID: -4010188259672901402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 340
+        width: 135
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9546378970c423c30800000000000000
+      internalID: 4337612986617390169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 340
+        width: 145
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7879f801eae48e60800000000000000
+      internalID: 7963748293336987771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 448
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49605c05f0f38e060800000000000000
+      internalID: 6982900557250102932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 341
+        width: 148
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbded7c59356f2a0800000000000000
+      internalID: -6704079092525900868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 442
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adff5a30da3ddf050800000000000000
+      internalID: 5836053432186044378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 341
+        width: 146
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d111e5668bd00a0800000000000000
+      internalID: -6913667103139488479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 425
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1cb73ddb65f5660800000000000000
+      internalID: 7376710087953072594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 425
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0764dd233de246ee0800000000000000
+      internalID: -1268837710385297808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 424
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bdeafed360dc080800000000000000
+      internalID: -9165662803545105525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 418
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea1db4353f272d70800000000000000
+      internalID: 9018228684397288165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 428
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d9aaa73fc60a710800000000000000
+      internalID: 1702480452136901955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 161
+        width: 116
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e45025e2d243590800000000000000
+      internalID: -7695476186301510098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 261
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a437e9602d7e300800000000000000
+      internalID: 281424427603937878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 261
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981b0876cfb83b820800000000000000
+      internalID: 2932841698532831625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 175
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd09209af72449880800000000000000
+      internalID: -8605179871934377761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 175
+        width: 96
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bf26628c76745b0800000000000000
+      internalID: -5384220720162997356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 175
+        width: 102
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50258d4c175c74320800000000000000
+      internalID: 2542217607098421765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 174
+        width: 143
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd3441cd991abf50800000000000000
+      internalID: 6897853944614370771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 174
+        width: 117
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e81bccb6f79a390800000000000000
+      internalID: -7806568378097627545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 159
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1964341d7543a78c0800000000000000
+      internalID: -4000827767187618159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 158
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d20ba35aa71f2550800000000000000
+      internalID: 6138150837444870871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 8
+        width: 159
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f423e6930b7b04fd0800000000000000
+      internalID: -2359684237236489649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 9
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e38cd57e490f83b0800000000000000
+      internalID: -5508173586661342235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 9
+        width: 138
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133890d8632aaefa0800000000000000
+      internalID: -5770621617343724751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 8
+        width: 147
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96dd07f3e2125800800000000000000
+      internalID: 599562470705452702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a20c0cf4009dca0800000000000000
+      internalID: -5991757486703498687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 8
+        width: 125
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f121b4cadf564d800800000000000000
+      internalID: 636245587557814815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 89
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b127c379a55848e00800000000000000
+      internalID: 1046107637587669531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Paladin_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 7
+        width: 142
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24df01c609196fcb0800000000000000
+      internalID: -4830513500833907390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Paladin_Sheet_0: -642670359892525455
+      Paladin_Sheet_1: -4441962283340684967
+      Paladin_Sheet_10: 6048573691694019692
+      Paladin_Sheet_11: -3392939501095237978
+      Paladin_Sheet_12: -355349318066907826
+      Paladin_Sheet_13: 1509139500347029971
+      Paladin_Sheet_14: -7747826431533833533
+      Paladin_Sheet_15: 9167633200292818787
+      Paladin_Sheet_16: 6964997228769676052
+      Paladin_Sheet_17: -34230137901532139
+      Paladin_Sheet_18: -1127825262246530442
+      Paladin_Sheet_19: 6373326377931549615
+      Paladin_Sheet_2: 6223386449933265757
+      Paladin_Sheet_20: -7928447859430108505
+      Paladin_Sheet_21: -3220622918383663361
+      Paladin_Sheet_22: 9212912623617171982
+      Paladin_Sheet_23: -8244905278639781887
+      Paladin_Sheet_24: 879436730210542329
+      Paladin_Sheet_25: 7493631499432970289
+      Paladin_Sheet_26: -5237122383884064031
+      Paladin_Sheet_27: -2710999230699385202
+      Paladin_Sheet_28: -1307337446719060951
+      Paladin_Sheet_29: -2090870306112926126
+      Paladin_Sheet_3: 7403133884994871511
+      Paladin_Sheet_30: 5487186574326899871
+      Paladin_Sheet_31: -9081811045741940489
+      Paladin_Sheet_32: -4010188259672901402
+      Paladin_Sheet_33: 4337612986617390169
+      Paladin_Sheet_34: 7963748293336987771
+      Paladin_Sheet_35: 6982900557250102932
+      Paladin_Sheet_36: -6704079092525900868
+      Paladin_Sheet_37: 5836053432186044378
+      Paladin_Sheet_38: -6913667103139488479
+      Paladin_Sheet_39: 7376710087953072594
+      Paladin_Sheet_4: -6811503621837494051
+      Paladin_Sheet_40: -1268837710385297808
+      Paladin_Sheet_41: -9165662803545105525
+      Paladin_Sheet_42: 9018228684397288165
+      Paladin_Sheet_43: 1702480452136901955
+      Paladin_Sheet_44: -7695476186301510098
+      Paladin_Sheet_45: 281424427603937878
+      Paladin_Sheet_46: 2932841698532831625
+      Paladin_Sheet_47: -8605179871934377761
+      Paladin_Sheet_48: -5384220720162997356
+      Paladin_Sheet_49: 2542217607098421765
+      Paladin_Sheet_5: 6394027870614334904
+      Paladin_Sheet_50: 6897853944614370771
+      Paladin_Sheet_51: -7806568378097627545
+      Paladin_Sheet_52: -4000827767187618159
+      Paladin_Sheet_53: 6138150837444870871
+      Paladin_Sheet_54: -2359684237236489649
+      Paladin_Sheet_55: -5508173586661342235
+      Paladin_Sheet_56: -5770621617343724751
+      Paladin_Sheet_57: 599562470705452702
+      Paladin_Sheet_58: -5991757486703498687
+      Paladin_Sheet_59: 636245587557814815
+      Paladin_Sheet_6: -6594821954691167856
+      Paladin_Sheet_60: 1046107637587669531
+      Paladin_Sheet_61: -4830513500833907390
+      Paladin_Sheet_7: 2685406279834966612
+      Paladin_Sheet_8: -861560261527154070
+      Paladin_Sheet_9: -2045140729614891169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1120 @@
+fileFormatVersion: 2
+guid: b4a9b790fe62e484a9a81cb75842815a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2226445612793862807
+    second: MagmaGolem_Sheet_0
+  - first:
+      213: 8850684779899267533
+    second: MagmaGolem_Sheet_1
+  - first:
+      213: -4680817479584359358
+    second: MagmaGolem_Sheet_2
+  - first:
+      213: 6378827913966178588
+    second: MagmaGolem_Sheet_3
+  - first:
+      213: 664976108482837580
+    second: MagmaGolem_Sheet_4
+  - first:
+      213: 8158221362579381271
+    second: MagmaGolem_Sheet_5
+  - first:
+      213: 4361422213441953637
+    second: MagmaGolem_Sheet_6
+  - first:
+      213: -7199808814025884257
+    second: MagmaGolem_Sheet_7
+  - first:
+      213: -4533826919286404104
+    second: MagmaGolem_Sheet_8
+  - first:
+      213: 8272661824012534072
+    second: MagmaGolem_Sheet_9
+  - first:
+      213: 4306727238535152201
+    second: MagmaGolem_Sheet_10
+  - first:
+      213: 7185803759007988414
+    second: MagmaGolem_Sheet_11
+  - first:
+      213: -4846964596439594256
+    second: MagmaGolem_Sheet_12
+  - first:
+      213: -3750048366731727964
+    second: MagmaGolem_Sheet_13
+  - first:
+      213: 5660222722452917727
+    second: MagmaGolem_Sheet_14
+  - first:
+      213: -418241895598463328
+    second: MagmaGolem_Sheet_15
+  - first:
+      213: 6544040710244571841
+    second: MagmaGolem_Sheet_16
+  - first:
+      213: -5086970840137325850
+    second: MagmaGolem_Sheet_17
+  - first:
+      213: -4799052594388150129
+    second: MagmaGolem_Sheet_18
+  - first:
+      213: 8847398017205504003
+    second: MagmaGolem_Sheet_19
+  - first:
+      213: -8742737538027753321
+    second: MagmaGolem_Sheet_20
+  - first:
+      213: 3880702271538786230
+    second: MagmaGolem_Sheet_21
+  - first:
+      213: 2969289266462192049
+    second: MagmaGolem_Sheet_22
+  - first:
+      213: 1688275580501485710
+    second: MagmaGolem_Sheet_23
+  - first:
+      213: -4063029300388202246
+    second: MagmaGolem_Sheet_24
+  - first:
+      213: 868333029243783571
+    second: MagmaGolem_Sheet_25
+  - first:
+      213: -8242876680144525115
+    second: MagmaGolem_Sheet_26
+  - first:
+      213: -6446690596319378538
+    second: MagmaGolem_Sheet_27
+  - first:
+      213: 2734067059212843016
+    second: MagmaGolem_Sheet_28
+  - first:
+      213: -1401716071043076748
+    second: MagmaGolem_Sheet_29
+  - first:
+      213: 9082303906252815996
+    second: MagmaGolem_Sheet_30
+  - first:
+      213: -5801917489236627114
+    second: MagmaGolem_Sheet_31
+  - first:
+      213: -2254557565914264500
+    second: MagmaGolem_Sheet_32
+  - first:
+      213: -8546445784009776777
+    second: MagmaGolem_Sheet_33
+  - first:
+      213: -2598681432431346997
+    second: MagmaGolem_Sheet_34
+  - first:
+      213: 1547643454719444208
+    second: MagmaGolem_Sheet_35
+  - first:
+      213: 3878627342867426783
+    second: MagmaGolem_Sheet_36
+  - first:
+      213: -7671492883725449322
+    second: MagmaGolem_Sheet_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 707
+        width: 193
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965e1b9e2831a11e0800000000000000
+      internalID: -2226445612793862807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 707
+        width: 199
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc92ad41ae2f3da70800000000000000
+      internalID: 8850684779899267533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 806
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c5fe66d456a0fb0800000000000000
+      internalID: -4680817479584359358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 704
+        width: 195
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11dc47f036268850800000000000000
+      internalID: 6378827913966178588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 814
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cbd3a5f387a3900800000000000000
+      internalID: 664976108482837580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 815
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c1c8bea13d73170800000000000000
+      internalID: 8158221362579381271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 711
+        width: 195
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f94b33562e68c30800000000000000
+      internalID: 4361422213441953637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 705
+        width: 213
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9db245a704251c90800000000000000
+      internalID: -7199808814025884257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 702
+        width: 193
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb84da207c9411c0800000000000000
+      internalID: -4533826919286404104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 529
+        width: 193
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831c33739166ec270800000000000000
+      internalID: 8272661824012534072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 528
+        width: 185
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942036dfa9194cb30800000000000000
+      internalID: 4306727238535152201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 615
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba7651627a19b360800000000000000
+      internalID: 7185803759007988414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 529
+        width: 190
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fac25e316f1cbcb0800000000000000
+      internalID: -4846964596439594256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 361
+        width: 244
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abeb6a01e625fbc0800000000000000
+      internalID: -3750048366731727964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 528
+        width: 182
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd8661b3962d8e40800000000000000
+      internalID: 5660222722452917727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 614
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6eaae363b123af0800000000000000
+      internalID: -418241895598463328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 527
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca92d9aa5a11da50800000000000000
+      internalID: 6544040710244571841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 169
+        width: 223
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e228da09f27769b0800000000000000
+      internalID: -5086970840137325850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 362
+        width: 245
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88d3158717566db0800000000000000
+      internalID: -4799052594388150129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 362
+        width: 237
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30887020f9548ca70800000000000000
+      internalID: 8847398017205504003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 361
+        width: 233
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790f169b78e8ba680800000000000000
+      internalID: -8742737538027753321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 360
+        width: 206
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfee16b7260bd530800000000000000
+      internalID: 3880702271538786230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 342
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1fbda1bd8053920800000000000000
+      internalID: 2969289266462192049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 174
+        width: 131
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88e1c212b5fd6710800000000000000
+      internalID: 1688275580501485710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 174
+        width: 142
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af87b5ec0683d97c0800000000000000
+      internalID: -4063029300388202246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 174
+        width: 169
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39980da1a40fc0c00800000000000000
+      internalID: 868333029243783571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 173
+        width: 414
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c862a0055b6b9d80800000000000000
+      internalID: -8242876680144525115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 331
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69348850f01c886a0800000000000000
+      internalID: -6446690596319378538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 266
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8087a70318b51f520800000000000000
+      internalID: 2734067059212843016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 103
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d6585f8aa1c8ce0800000000000000
+      internalID: -1401716071043076748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 190
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e775a5843da0e70800000000000000
+      internalID: 9082303906252815996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 0
+        width: 190
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651bced88c27b7fa0800000000000000
+      internalID: -5801917489236627114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cc206c6d336b0e0800000000000000
+      internalID: -2254557565914264500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 99
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77166f727dce46980800000000000000
+      internalID: -8546445784009776777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 0
+        width: 182
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcab68f6101afebd0800000000000000
+      internalID: -2598681432431346997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 100
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4c285b5855a7510800000000000000
+      internalID: 1547643454719444208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 181
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddeabbb407a3d530800000000000000
+      internalID: 3878627342867426783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagmaGolem_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 0
+        width: 173
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6978b981ed1698590800000000000000
+      internalID: -7671492883725449322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MagmaGolem_Sheet_0: -2226445612793862807
+      MagmaGolem_Sheet_1: 8850684779899267533
+      MagmaGolem_Sheet_10: 4306727238535152201
+      MagmaGolem_Sheet_11: 7185803759007988414
+      MagmaGolem_Sheet_12: -4846964596439594256
+      MagmaGolem_Sheet_13: -3750048366731727964
+      MagmaGolem_Sheet_14: 5660222722452917727
+      MagmaGolem_Sheet_15: -418241895598463328
+      MagmaGolem_Sheet_16: 6544040710244571841
+      MagmaGolem_Sheet_17: -5086970840137325850
+      MagmaGolem_Sheet_18: -4799052594388150129
+      MagmaGolem_Sheet_19: 8847398017205504003
+      MagmaGolem_Sheet_2: -4680817479584359358
+      MagmaGolem_Sheet_20: -8742737538027753321
+      MagmaGolem_Sheet_21: 3880702271538786230
+      MagmaGolem_Sheet_22: 2969289266462192049
+      MagmaGolem_Sheet_23: 1688275580501485710
+      MagmaGolem_Sheet_24: -4063029300388202246
+      MagmaGolem_Sheet_25: 868333029243783571
+      MagmaGolem_Sheet_26: -8242876680144525115
+      MagmaGolem_Sheet_27: -6446690596319378538
+      MagmaGolem_Sheet_28: 2734067059212843016
+      MagmaGolem_Sheet_29: -1401716071043076748
+      MagmaGolem_Sheet_3: 6378827913966178588
+      MagmaGolem_Sheet_30: 9082303906252815996
+      MagmaGolem_Sheet_31: -5801917489236627114
+      MagmaGolem_Sheet_32: -2254557565914264500
+      MagmaGolem_Sheet_33: -8546445784009776777
+      MagmaGolem_Sheet_34: -2598681432431346997
+      MagmaGolem_Sheet_35: 1547643454719444208
+      MagmaGolem_Sheet_36: 3878627342867426783
+      MagmaGolem_Sheet_37: -7671492883725449322
+      MagmaGolem_Sheet_4: 664976108482837580
+      MagmaGolem_Sheet_5: 8158221362579381271
+      MagmaGolem_Sheet_6: 4361422213441953637
+      MagmaGolem_Sheet_7: -7199808814025884257
+      MagmaGolem_Sheet_8: -4533826919286404104
+      MagmaGolem_Sheet_9: 8272661824012534072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

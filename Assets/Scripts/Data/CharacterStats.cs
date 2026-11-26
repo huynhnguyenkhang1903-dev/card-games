@@ -8,6 +8,11 @@ public class CharacterStats : ScriptableObject
     public string CharacterID;
     public string CharacterName;
 
+    [Header("Visuals & Prefab")]
+    public Sprite Portrait;
+    public Sprite FullBody;
+    public GameObject CharacterPrefab;
+
     [Header("Base Attributes")]
     public int BaseHP;
     public int BaseATK;

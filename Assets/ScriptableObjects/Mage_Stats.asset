@@ -12,8 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f24248f7654e7b143890e1e2d8f6837f, type: 3}
   m_Name: Mage_Stats
   m_EditorClassIdentifier: Assembly-CSharp::CharacterStats
-  CharacterID: HERO_MAGE
-  CharacterName: "Phu Thuy Hu Khong"
+  CharacterID: Mage
+  CharacterName: "Ph\xF9 Th\u1EE7y Tinh T\xFA (Celestial Mage)"
+  Portrait: {fileID: -2947078712294303283, guid: 0d3b36ed7b831e64685136a40e3a17d2, type: 3}
+  FullBody: {fileID: 5095477884106165488, guid: f944389eb1a23a94aac2d9ac97ef235f, type: 3}
+  CharacterPrefab: {fileID: 6639985777637424639, guid: 1653fb48cb947ff4c94cd685aa6eba66, type: 3}
   BaseHP: 800
   BaseATK: 95
   BaseDEF: 10
