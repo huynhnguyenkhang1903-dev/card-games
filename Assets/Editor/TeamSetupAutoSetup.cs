@@ -27,6 +27,14 @@ namespace Antigravity.Editor
             // 2. Tạo EventSystem
             EnsureEventSystem();
 
+            // Gỡ bỏ các giao diện nguyên mẫu cũ nếu tồn tại
+            string[] oldNames = new string[] { "LevelPreps", "Levels", "MenuBackgroundButtons", "Shop", "BuyAsk" };
+            foreach (var name in oldNames)
+            {
+                GameObject oldObj = GameObject.Find(name);
+                if (oldObj != null) Undo.DestroyObjectImmediate(oldObj);
+            }
+
             // 3. Tạo Canvas UI chính
             GameObject canvasObj = GameObject.Find("TeamSetupCanvas");
             if (canvasObj != null)

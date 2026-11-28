@@ -420,6 +420,11 @@ namespace Antigravity.UI
             }
 
             ShowNotification("Đội hình hợp lệ! Đang chuyển vào trận đấu...");
+
+            if (UnityEngine.Application.CanStreamedLevelBeLoaded("CombatScene"))
+            {
+                UnityEngine.SceneManagement.SceneManager.LoadScene("CombatScene");
+            }
         }
 
         private void ShowNotification(string msg)
